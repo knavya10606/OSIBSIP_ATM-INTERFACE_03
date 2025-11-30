@@ -7,7 +7,7 @@ ATM Interface - Core Java console application
 
 **Student:** K Navya  
 **Domain:** CSE/ Java  
-**Task:** OIBSIP_IT_ATMInterface_Task03
+**Task:** OIBSIP_ATMInterface_Task03
 
 ## Objective
 Build a console-based ATM interface to simulate real ATM operations and strengthen OOP and exception handling concepts.
@@ -37,7 +37,7 @@ demo showing:
 2. Checking balance  
 3. Deposit flow  
 4. Withdrawal flow + transaction history  
-(YouTube / LinkedIn link:https://www.linkedin.com/posts/k-navya-3bb55b39b_codingjourney-ugcPost-7400765748408778752-jzZD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGIlzX8ByJyyZxbjAIsyoP_i5G2GXpWl5nM )
+(YouTube / LinkedIn link: )
 
 ## Outcome & Learnings
 - Implemented OOP design and input validation
