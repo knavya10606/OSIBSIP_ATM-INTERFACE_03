@@ -1,4 +1,4 @@
-# OSIBSIP_ATM-INTERFACE_03
+# OSIBSIP_ATM-INTERFACE_TASK03
 ATM Interface - Core Java console application
 
 
@@ -37,7 +37,9 @@ demo showing:
 2. Checking balance  
 3. Deposit flow  
 4. Withdrawal flow + transaction history  
-(YouTube / LinkedIn link: )
+(YouTube:https://youtu.be/rQfZsE_wa4s?si=eGfVenbMjU-Z-g2i
+  LinkedIn link:https://www.linkedin.com/posts/k-navya-3bb55b39b_codingjourney-activity-7400881897561690112-wvT_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGIlzX8ByJyyZxbjAIsyoP_i5G2GXpWl5nM
+ )
 
 ## Outcome & Learnings
 - Implemented OOP design and input validation
